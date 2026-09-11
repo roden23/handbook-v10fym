@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roden23.github.io/handbook-v10fym/sitemap.xml
